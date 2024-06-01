@@ -1,0 +1,9 @@
+MOSFET  - https://www.tme.eu/pl/en/details/2n7002bks.115/multi-channel-transistors/nexperia/2n7002bks-115/
+TL074 - https://www.tme.eu/pl/en/details/tl074cdt/smd-operational-amplifiers/stmicroelectronics/
+TL072 - https://www.tme.eu/pl/en/details/tl072cdr/smd-operational-amplifiers/texas-instruments/
+PHOTORESISTOR - https://www.tme.eu/pl/en/details/pgm1201/photoresistors/token/
+RESISTORS - https://sklep.avt.pl/pl/products/zestaw-rezystorow-smd-1206-530-sztuk-avt713-169128.html
+CAPS - https://sklep.avt.pl/pl/products/zestaw-kondensatorow-smd-1206-120-sztuk-avt714-169129.html?gad_source=1
+WIRE - https://sklep.avt.pl/pl/products/przewod-h05v-u-drut-cu-0-5mm2-pvc-300-500v-czarny-1mb-181703.html
+10K TRIM POT - https://sklep.avt.pl/pl/products/potencjometr-montazowy-10kom-helitrim-3296w-179018.html
+100K TRIM POT - https://sklep.avt.pl/pl/products/potencjometr-montazowy-100kom-helitrim-3296w-179016.html
